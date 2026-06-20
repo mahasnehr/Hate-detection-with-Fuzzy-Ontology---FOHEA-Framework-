@@ -1,0 +1,3 @@
+# Hate-detection-with-Fuzzy-sets---FHEA-Framework-
+
+Humans express their emotions by words. Human emotions form a complex, interconnected spectrum as presented in Plutchik wheel of emotions. In this paper we propose a hybrid model for hate analysis as complex human emo-tion. Hate is formed by combination of three key sub-emotions: fear, disgust and anger. The Fuzzy Hate Emotion Analysis (FHEA) model integrates Plutchik wheel of emotions with fuzzy sets to enhance emotion detection in NLP (Natural Language Processing) models. It facilitates the Mamdani infer-ence system to dynamically construct extract the embedded emotional cues and generated a highly grained labeled dataset. Finally, we applied two state-of-the-art emotion classification models; 
